@@ -51,25 +51,25 @@ esperadas do sistema.
 
 ### Protótipos para Home Principal
 
-![]()
+![](home.png)
 
 Fonte: Mockup criado no software Balsamiq
 
 ### Protótipos para Mapas
 
-![](p)
+![](mapa.png)
 
 Fonte: Mockup criado no software Balsamiq
 
 ### Protótipos para SOS
 
-![]()
+![](SOS.png)
 
 Fonte: Mockup criado no software Balsamiq
 
 ### Protótipos para Lei Maria da Penha
 
-![]()
+![](lei maria da penha.png)
 
 Fonte: Mockup criado no software Balsamiq
 
