@@ -1,14 +1,13 @@
 # Requisitos
 ## Requisitos funcionais
-* Newsletter sobre mulheres
-* Mapa de delegacias
+* Disponibilizar Newsletter sobre mulheres
+* Consulta no mapa de delegacias
   * Filtro de delegacias especializadas em auxilio a mulheres que sofrem de violencia domestica
   * Filtro de delegacias comum
   * Filtro de busca de todas as delegacias
-* Envio de mensagem de socorro "Botão de Panico"
+* Envio de mensagem de socorro "Botão de Panico" para contatos de emergência
 * Informações sobre Lei Maria da Penha
 
 ## Requisitos não funcionais
-* API de serviço de mapas do Google
-* API de serviço de newsletter do Google
-* E-mail SOS para usuário
+* Integração API de serviço de mapas do Google
+* Integração API de serviço de newsletter do Google
