@@ -7,27 +7,33 @@ esperadas do sistema.
 ## Objetivos
 
 * Ampliar a funcionalidade do aplicativo web-based “SOS Mulher” 
-* App que forneça informações sobre a "Lei Maria da Penha" e 
-* App que mapeia as delegecias mais próximas da localização 
+* Site SOS Mulheres:
+  * Newsletter com noticias de mulheres
+  * Mapas de delegacias
+  * "Botão de Panico"
+  * Informações sobre lei Maria da Penha
 
 ## Problema
 
-* Descrição do problema: Mulheres que sofrem agressões 
-* Quem é afetado pelo problema: Mulheres
-* Impacto no negócio: Diminuir o numero de casos de violencia contra mulheres
-* Benefícios de uma boa solução: Ao diminuir o numero de casos de violencia contra as mulheres, retiraremos
+* Descrição do problema: Com este site queremos auxiliar mulheres que sofrem violencia domestica
+* Quem é afetado pelo problema: estamos querendo resolver o problema de mulheres que sofrem violencia domestica
+* Impacto no negócio: coibir a violência doméstica e familiar contra a mulher
+* Benefícios de uma boa solução: Informar mulheres que sofrem violencia domestica seus direitos 
 
 ## Integração com outros sistemas
 
 * API do Google Maps
+* API de newsletter do Google
  
 ## Interessados
 
-* Mulheres que sofrem violencia
+* Mulheres que sofrem violencia domestica 
+* Pessoas que buscam informações sobre lei Maria da Penha
+
 
 ## Usuários
 
-* Mulheres que sofrem violencia 
+* Mulheres que sofrem violencia domestica
 
 ## Funcionalidades do produto
 
@@ -39,13 +45,6 @@ esperadas do sistema.
   * Envio de mensagem de socorro para usuário
 * Lei Maria da Penha
   * Página em artigo para lei Maria da Penha
-
-## Restrições do projeto
-
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
 
 ## Protótipos de tela
 
