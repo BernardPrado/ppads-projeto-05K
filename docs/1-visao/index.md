@@ -17,19 +17,9 @@ esperadas do sistema.
 * Impacto no negócio: Diminuir o numero de casos de violencia contra mulheres
 * Benefícios de uma boa solução: Ao diminuir o numero de casos de violencia contra as mulheres, retiraremos
 
-## Definições, abreviações e outros termos do domínio do problema
-
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
-
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* API do Google Maps
  
 ## Interessados
 
@@ -41,9 +31,14 @@ esperadas do sistema.
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Home Principal
+  *Newsletter de noticias ligadas a mulher
+* Mapas
+  * Busca de delegacias 
+* SOS
+  * Envio de mensagem de socorro para usuário
+* Lei Maria da Penha
+  * Página em artigo para lei Maria da Penha
 
 ## Restrições do projeto
 
@@ -54,16 +49,28 @@ esperadas do sistema.
 
 ## Protótipos de tela
 
-### Protótipos para funcionalidade 1
+### Protótipos para Home Principal
 
-![](proto1.png)
+![]()
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Fonte: Mockup criado no software Balsamiq
 
-### Protótipos para funcionalidade 2
+### Protótipos para Mapas
 
-![](proto2.png)
+![](p)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Fonte: Mockup criado no software Balsamiq
+
+### Protótipos para SOS
+
+![]()
+
+Fonte: Mockup criado no software Balsamiq
+
+### Protótipos para Lei Maria da Penha
+
+![]()
+
+Fonte: Mockup criado no software Balsamiq
 
 ### Protótipos para funcionalidade N
