@@ -8,4 +8,6 @@ Bernard Wahba Del Nero de Almeida Prado                             TIA: 3169321
 
 João Pedro Rodrigues dos Santos                                     TIA: 31609945
 
+Jonathan Fernandes Gobato                                           TIA: 41783840
+
 Paulo Francisco Chen                                                TIA: 31613837
