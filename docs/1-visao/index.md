@@ -68,7 +68,7 @@ Fonte: Mockup criado no software Balsamiq
 
 ### Protótipos para Lei Maria da Penha
 
-![](lei maria da penha.png)
+![](leimariadapenha.png)
 
 Fonte: Mockup criado no software Balsamiq
 
