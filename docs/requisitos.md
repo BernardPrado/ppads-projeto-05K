@@ -6,7 +6,7 @@
   * Filtro de delegacias comum
   * Filtro de busca de todas as delegacias
 * Envio de mensagem de socorro "Botão de Panico" para contatos de emergência
-* Informações sobre Lei Maria da Penha
+* Disponbilização de informações sobre a Lei Maria da Penha
 
 ## Requisitos não funcionais
 * Integração API de serviço de mapas do Google
