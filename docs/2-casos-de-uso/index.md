@@ -6,7 +6,8 @@
 
 ![Caso de uso principal](CASO-DE-USO-HOME.png)
 ![Caso de uso mapas](CASO-DE-USO-MAPAS.png)
-![Caso de uso sos](CASO-DE-USO-SOS.png)
+![Caso de uso Sos](CASO-DE-USO-SOS.png)
+![Caso de uso Newsletter](CASO-DE-USO-NEWSLETTER.png)
 
 ## 2. Especificação dos casos de uso
 
