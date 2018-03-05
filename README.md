@@ -11,3 +11,5 @@ João Pedro Rodrigues dos Santos                                     TIA: 316099
 Jonathan Fernandes Gobato                                           TIA: 41783840
 
 Paulo Francisco Chen                                                TIA: 31613837
+
+Tiago Angi Luiz                                                     TIA: 41330870
