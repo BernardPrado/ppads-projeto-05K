@@ -5,6 +5,7 @@
 **Instruções do professor**: Insira abaixo o diagrama com os casos de uso do seu sistema. A imagem abaixo é somente um exemplo.
 
 ![Caso de uso principal](CASO-DE-USO-HOME.png)
+![Caso de uso mapas](CASO-DE-USO-MAPAS.png)
 
 ## 2. Especificação dos casos de uso
 
