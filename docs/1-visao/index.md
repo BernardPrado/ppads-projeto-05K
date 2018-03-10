@@ -37,8 +37,9 @@ esperadas do sistema.
 
 ## Funcionalidades do produto
 
-* Home Principal
-  *Newsletter de noticias ligadas a mulher
+* Home Principal  
+  * 
+  Newsletter de noticias ligadas a mulher
 * Mapas
   * Busca de delegacias 
 * SOS
