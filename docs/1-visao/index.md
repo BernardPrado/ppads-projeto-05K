@@ -50,7 +50,7 @@ esperadas do sistema.
 
 ### Protótipos para Home Principal
 
-![](prototipo_tela_newsLetter.png)
+![](home.png)
 
 Fonte: Mockup criado no software Balsamiq
 
