@@ -10,7 +10,7 @@ esperadas do sistema.
   * Com base no site SOS Mulheres queremos acrescentar as funcionalidades de:
     * Newsletter com noticias de mulheres, que visa informar as mulheres sobre os principais acontecimentos envolvendo violência doméstica, como devem proceder quando um caso destes ocorrer, a quem recorrer, etc.
     * Mapas de delegacias que disponibiliza aos usuários as delegacias mais próximas, sejam as delegacias que atendem a todos ou alguma especifica somente ao genero feminino
-    * "Botão de Panico" que quando acionado envia um e-mail de socorro a algum contato contendo a localização do usuário
+    * "Botão de Panico" para informar um contato de emergência que o usuário em questão está em perigo
     * Informações sobre lei Maria da Penha, disponibilizar  a lei Maria da Penha para consulta.
 
 ## Problema
@@ -26,14 +26,15 @@ esperadas do sistema.
 
 ## Integração com outros sistemas
 
-* API do Google Maps
-* API de newsletter do Google
+* API do Google Maps para disponibilizarmos a localização das delegacias
+* API de newsletter do Google para trazer noticias referentes as mulheres de forma automática
  
 ## Interessados
 
 * Mulheres coagidas pelo medo da violencia domestica
-* Usuários que buscam informações referentes a mulehres e sobre a Lei Maria da Penha
-* Organizações que buscam ajudar mulheres em situação de volencia domestica
+* Usuários que buscam informações referentes aos direitos das mulheres
+* Usuários que querem saber onde tem uma delegacia próxima a sua localização
+* Organizações que buscam informações pertinentes para auxiliar as mulheres nestes casos de violência
   * Amzol – Associação de Mulheres da Zona Leste
   * Associação Fala Mulher
   * Asbrad – Associação Brasileira de Defesa da Mulher, da Infância e da Juventude
@@ -43,6 +44,8 @@ esperadas do sistema.
 ## Usuários
 
 * Mulheres que sofrem violencia domestica
+* Ongs
+* Usuários que buscam informações sobre violência doméstica e buscam delegacias próximas
 
 ## Funcionalidades do produto
 
