@@ -8,18 +8,14 @@ esperadas do sistema.
 
 * Ampliar a funcionalidade do aplicativo web-based “SOS Mulher”  http://www.onumulheres.org.br/sosmulher/
   * Com base no site SOS Mulheres queremos acrescentar as funcionalidades de:
-    * Newsletter com noticias de mulheres
-    * Mapas de delegacias
-    * "Botão de Panico"
-    * Informações sobre lei Maria da Penha
+    * Newsletter com noticias de mulheres, que visa informar as mulheres sobre os principais acontecimentos envolvendo violência doméstica, como devem proceder quando um caso destes ocorrer, a quem recorrer, etc.
+    * Mapas de delegacias que disponibiliza aos usuários as delegacias mais próximas, sejam as delegacias que atendem a todos ou alguma especifica somente ao genero feminino
+    * "Botão de Panico" que quando acionado envia um e-mail de socorro a algum contato contendo a localização do usuário
+    * Informações sobre lei Maria da Penha, disponibilizar  a lei Maria da Penha para consulta.
 
 ## Problema
 
-* Descrição do problema: Pensando desde a busca por informações sobre Lei Maria da Penha a pedir socorro em situações de emergencia, o site SOS Mulheres tem como objetivo auxiliar qualquer mulher que sofre com os abusos da violencia domestica. 
-  * Nossas usuárias terão a possbilidade de:
-      * buscar noticias e informações referentes a mulheres e sobre a Lei Maria da Penha
-      * Mapear delegacias próximas e sua localização 
-      * Pedir socorro caso algo esteja algo esteja ocorrendo
+* Descrição do problema: Tendo em vista que muitos casos de violência doméstica não são denunciados por falta de informação de como proceder ou medo em denunciar o agressor, nosso sistema visa disponibilizar informações que encoraje as mulheres a denunciar e diminuir este problema.
   
 * Quem é afetado pelo problema: A ampliação do projeto SOS Mulheres tem como foco auxiliar mulheres que sofrem de violencia domestica
 * Impacto no negócio: Desejamos coibir a violência doméstica e familiar contra a mulher
