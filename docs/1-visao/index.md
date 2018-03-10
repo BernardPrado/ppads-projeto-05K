@@ -7,7 +7,7 @@ esperadas do sistema.
 ## Objetivos
 
 * Ampliar a funcionalidade do aplicativo web-based “SOS Mulher” 
-* Site SOS Mulheres:
+* Com base no site SOS Mulheres queremos acrescentar as funcionalidades de:
   * Newsletter com noticias de mulheres
   * Mapas de delegacias
   * "Botão de Panico"
@@ -15,10 +15,18 @@ esperadas do sistema.
 
 ## Problema
 
-* Descrição do problema: Com este site queremos auxiliar mulheres que sofrem violencia domestica
-* Quem é afetado pelo problema: estamos querendo resolver o problema de mulheres que sofrem violencia domestica
-* Impacto no negócio: coibir a violência doméstica e familiar contra a mulher
-* Benefícios de uma boa solução: Informar mulheres que sofrem violencia domestica seus direitos 
+* Descrição do problema: Pensando desde a busca por informações sobre Lei Maria da Penha a pedir socorro em situações de emergencia, o site SOS Mulheres tem como objetivo auxiliar qualquer mulher que sofre com os abusos da violencia domestica. 
+  * Nossas usuárias terão a possbilidade de:
+      * buscar noticias e informações referentes a mulheres e sobre a Lei Maria da Penha
+      * Mapear delegacias próximas e sua localização 
+      * Pedir socorro caso algo esteja algo esteja ocorrendo
+  
+* Quem é afetado pelo problema: A ampliação do projeto SOS Mulheres tem como foco auxiliar mulheres que sofrem de violencia domestica
+* Impacto no negócio: Desejamos coibir a violência doméstica e familiar contra a mulher
+* Benefícios de uma boa solução:
+  * Auxiliar mulheres que sofrem de violencia domestica
+  * Informar as mulheres sobre a Lei Maria da Penha e seus beneficios de ajuda
+  * Diminuir na porcentagem de mulheres coagidas pelo medo da violencia domestica 
 
 ## Integração com outros sistemas
 
@@ -27,9 +35,14 @@ esperadas do sistema.
  
 ## Interessados
 
-* Mulheres que sofrem violencia domestica 
-* Pessoas que buscam informações sobre lei Maria da Penha
-
+* Mulheres coagidas pelo medo da violencia domestica
+* Usuários que buscam informações referentes a mulehres e sobre a Lei Maria da Penha
+* Organizações que buscam ajudar mulheres em situação de volencia domestica
+  * Amzol – Associação de Mulheres da Zona Leste
+  * Associação Fala Mulher
+  * Asbrad – Associação Brasileira de Defesa da Mulher, da Infância e da Juventude
+  * Bem Me Quer
+  * Casa da Mulher Lilith
 
 ## Usuários
 
