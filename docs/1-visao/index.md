@@ -6,12 +6,12 @@ esperadas do sistema.
 
 ## Objetivos
 
-* Ampliar a funcionalidade do aplicativo web-based “SOS Mulher” 
-* Com base no site SOS Mulheres queremos acrescentar as funcionalidades de:
-  * Newsletter com noticias de mulheres
-  * Mapas de delegacias
-  * "Botão de Panico"
-  * Informações sobre lei Maria da Penha
+* Ampliar a funcionalidade do aplicativo web-based “SOS Mulher”  http://www.onumulheres.org.br/sosmulher/
+  * Com base no site SOS Mulheres queremos acrescentar as funcionalidades de:
+    * Newsletter com noticias de mulheres
+    * Mapas de delegacias
+    * "Botão de Panico"
+    * Informações sobre lei Maria da Penha
 
 ## Problema
 
