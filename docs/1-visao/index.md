@@ -15,14 +15,13 @@ esperadas do sistema.
 
 ## Problema
 
-* Descrição do problema: Tendo em vista que muitos casos de violência doméstica não são denunciados por falta de informação de como proceder ou medo em denunciar o agressor, nosso sistema visa disponibilizar informações que encoraje as mulheres a denunciar e diminuir este problema.
-  
-* Quem é afetado pelo problema: A ampliação do projeto SOS Mulheres tem como foco auxiliar mulheres que sofrem de violencia domestica
-* Impacto no negócio: Desejamos coibir a violência doméstica e familiar contra a mulher
+* Descrição do problema: Tendo em vista que muitos casos de violência doméstica não são denunciados por falta de informação de como proceder ou medo em denunciar o agressor, nosso sistema visa disponibilizar informações que encorajem as mulheres a denunciar e diminuir este problema.
+* Quem é afetado pelo problema: A ampliação do projeto SOS Mulheres tem como foco auxiliar mulheres que sofrem de violencia domestica.
+* Impacto no negócio: Desejamos coibir a violência doméstica e familiar contra a mulher.
 * Benefícios de uma boa solução:
-  * Auxiliar mulheres que sofrem de violencia domestica
-  * Informar as mulheres sobre a Lei Maria da Penha e seus beneficios de ajuda
-  * Diminuir na porcentagem de mulheres coagidas pelo medo da violencia domestica 
+  * Auxiliar mulheres que sofrem de violencia domestica.
+  * Informar as mulheres sobre a Lei Maria da Penha e seus beneficios de ajuda.
+  * Diminuir na porcentagem de mulheres coagidas pelo medo da violencia domestica.
 
 ## Integração com outros sistemas
 
@@ -45,7 +44,8 @@ esperadas do sistema.
 
 * Mulheres que sofrem violencia domestica
 * Ongs
-* Usuários que buscam informações sobre violência doméstica e buscam delegacias próximas
+* Usuários que buscam informações sobre a Lei Maria da Penha
+* Usuárias que buscam ajuda a combater a violencia domestica
 
 ## Funcionalidades do produto
 
