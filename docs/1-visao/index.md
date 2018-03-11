@@ -62,27 +62,39 @@ esperadas do sistema.
 ## Protótipos de tela
 
 ### Protótipos para Home Principal
+* Versão Desktop     
+![](home.png)    
 
-![](home.png)
+* Versão Mobile     
+![](mobile-home.png)    
 
-Fonte: Mockup criado no software Balsamiq
+Fonte: Mockup criado no software Balsamiq  
 
-### Protótipos para Mapas
-
+### Protótipos para Mapas  
+* Versão Desktop     
 ![](mapa.png)
+
+* Versão Mobile  
+![](mobile-mapa.png)  
 
 Fonte: Mockup criado no software Balsamiq
 
 ### Protótipos para SOS
-
+* Versão Desktop  
 ![](SOS.png)
+
+* Versão Mobile  
+![](mobile-SOS.png)
 
 Fonte: Mockup criado no software Balsamiq
 
 ### Protótipos para Lei Maria da Penha
-
+* Versão Desktop  
 ![](leimariadapenha.png)
+
+* Versão Mobile  
+![](mobile-leimariadapenha.png)
 
 Fonte: Mockup criado no software Balsamiq
 
-### Protótipos para funcionalidade N
+
