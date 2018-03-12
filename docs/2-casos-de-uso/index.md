@@ -60,38 +60,7 @@
 | 4) Volta ao passo (2) do fluxo principal. |
 
 
-### 2.3. Caso de uso *Filtrar Crimes Ocorridos no Newsletter*
 
-| Campo          | Informação        |
-|---|---|
-| Identificador: | UC03              |
-| Nome:          | Filtrar ocorrências |
-| Atores:        | Vitima do Ataque |
-| Sumário:       | Visualizar o Ranking de ocorrências |
-
-| Fluxo Principal |
-|---|
-| 1) O usuário clica em uma das 3 opções: "Horário Perigosos", "Lugares mais Perigosos" e "Crimes mais Frequentes". |
-| 2) O sistema filtra as ocorrências registradas baseada na opção que o usuário clicou.                   |
-| 3) O sistema apresenta as informações da hora, local e tipo de crime em um ranking com no máximo 10 posições. |
-
-| Fluxo Alternativo (2a)|
-|---|
-| 1) O usuário clica em "Horários Perigosos". |
-| 2) O sistema lista até 10 ocorrências mais frequentes em faixas de horário.                   |
-| 3) O sistema apresenta as informações da hora, local e tipo de crime em um rank baseado nos horários com mais registros. |
-
-| Fluxo Alternativo (2b)|
-|---|
-| 1) O usuário clica em "Lugares mais Perigosos". |
-| 2) O sistema lista até  10 endereços (nome do local e estado) com mais ocorrências.                   |
-| 3) O sistema apresenta as informações da hora, local e tipo de crime em um rank baseado nos endereços com mais registros. |
-
-| Fluxo Alternativo (2c)|
-|---|
-| 1) O usuário clica em "Crimes mais Frequentes". |
-| 2) O sistema lista até 10 tipos de crimes mais recorrentes.                   |
-| 3) O sistema apresenta as informações da hora, local e tipo de crime em um rank baseado nos crimes com mais registros. |
 
 **Instruções do professor**: As tabelas acima mostram um exemplo de especificação de **um único caso de uso**. Lembre-se de especificar cada um dos casos de uso.
 
