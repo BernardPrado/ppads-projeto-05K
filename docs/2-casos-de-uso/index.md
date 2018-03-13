@@ -59,6 +59,21 @@
 | 3) Usuário checa se a email está correto. |
 | 4) Volta ao passo (2) do fluxo principal. |
 
+### 2.3. Caso de uso **Ver Newsletter**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC03              |
+| Nome:          | Ver Newsletter |
+| Atores:        | Interessados em saber sobre as ultimas noticias sobre Mulher  |
+| Sumário:       | Envia email de socorro |
+
+| Fluxo Principal |
+|---|
+| 1) Usuário clica em "Home". |
+| 2) O sistema apresenta em forma de newsletter, as últimas noticias sobre Mulher.        |
+| 3) Usuário seleciona a notícia que deseja ler.|
+| 4) O sistema apresenta em mais detalhes sobre a notícia. |
 
 
 
