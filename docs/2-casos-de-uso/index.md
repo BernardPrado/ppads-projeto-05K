@@ -66,7 +66,7 @@
 | Identificador: | UC03              |
 | Nome:          | Ver Newsletter |
 | Atores:        | Interessados em saber sobre as ultimas noticias sobre Mulher  |
-| Sumário:       | Envia email de socorro |
+| Sumário:       | Busca notícias que podem interessar às mulheres em relação a segurança |
 
 | Fluxo Principal |
 |---|
