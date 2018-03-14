@@ -56,7 +56,7 @@
 |---|
 | 1) O sistema informa que não conseguiu enviar o email. |
 | 2) Sistema informa que talvez o email do destinatário esteja incorreto. |
-| 3) Usuário checa se a email está correto. |
+| 3) Usuário checa se o email está correto. |
 | 4) Volta ao passo (2) do fluxo principal. |
 
 ### 2.3. Caso de uso **Ver Newsletter**
@@ -65,15 +65,15 @@
 |---|---|
 | Identificador: | UC03              |
 | Nome:          | Ver Newsletter |
-| Atores:        | Interessados em saber sobre as ultimas noticias sobre Mulher  |
+| Atores:        | Interessados em ler as ultimas noticias sobre segurança da Mulher  |
 | Sumário:       | Busca notícias que podem interessar às mulheres em relação a segurança |
 
 | Fluxo Principal |
 |---|
 | 1) Usuário clica em "Home". |
-| 2) O sistema apresenta em forma de newsletter, as últimas noticias sobre Mulher.        |
+| 2) O sistema apresenta em forma de newsletter, as últimas noticias sobre segurança da Mulher.        |
 | 3) Usuário seleciona a notícia que deseja ler.|
-| 4) O sistema apresenta em mais detalhes sobre a notícia. |
+| 4) O sistema apresenta mais detalhes sobre a notícia. |
 
 
 
