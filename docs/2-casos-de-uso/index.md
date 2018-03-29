@@ -75,6 +75,40 @@
 | 3) Usuário seleciona a notícia que deseja ler.|
 | 4) O sistema apresenta mais detalhes sobre a notícia. |
 
+### 2.4. Caso de uso **Fazer Cadastro**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC03              |
+| Nome:          | Fazer Cadastro |
+| Atores:        | Interessados em usufruir do serviço do Botão de Emergência para pedir ajuda e enviar mensagens para contatos cadastrados|
+| Sumário:       | Realiza o cadastro do usuário |
+
+| Fluxo Principal |
+|---|
+| 1) Usuário clica em "SOS". |
+| 2) Se não estiver numa conta ou logado, o usuário preenche o campo "Email" e "CPF" e depois clicar em "Cadastrar". |
+| 3) O usuário preenche o campo "Nome", "Data de Nascimento", "Telefone", "Email de emergencia" e "Telefone de emergencia". |
+| 4) O usuário clica em "Cadastrar". |
+| 5) O sistema apresenta que o cadastro foi realizado com sucesso. |
+
+### 2.5. Caso de uso **Gestão de Cadastro**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC03              |
+| Nome:          | Gestão de Cadastro |
+| Atores:        | Interessados em editar o cadastro|
+| Sumário:       | Realiza o gestão do cadastro |
+
+| Fluxo Principal |
+|---|
+| 1) Usuário clica em no ícone do canto superior direito. |
+| 2) O sistema apresenta a tela dos dados já cadastrados. |
+| 3) O usuário clica no ícone semelhante a uma caneta. |
+| 4) O usuário pode preencher o campo "Nome", "Data de Nascimento", "Telefone", "Email de emergencia" ou "Telefone de emergencia". |
+| 5) O sistema apresenta que a atualização foi realizada com sucesso. |
+
 
 
 **Instruções do professor**: As tabelas acima mostram um exemplo de especificação de **um único caso de uso**. Lembre-se de especificar cada um dos casos de uso.
