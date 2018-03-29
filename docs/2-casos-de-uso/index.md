@@ -86,7 +86,7 @@
 
 | Fluxo Principal |
 |---|
-| 1) Usuário clica em "SOS". |
+| 1) Usuário clica no ícone localizado no canto superior direito da tela. |
 | 2) Se não estiver numa conta ou logado, o usuário preenche o campo "Email" e "CPF" e depois clicar em "Cadastrar". |
 | 3) O usuário preenche o campo "Nome", "Data de Nascimento", "Telefone", "Email de emergencia" e "Telefone de emergencia". |
 | 4) O usuário clica em "Cadastrar". |
@@ -108,6 +108,13 @@
 | 3) O usuário clica no ícone semelhante a uma caneta. |
 | 4) O usuário pode preencher o campo "Nome", "Data de Nascimento", "Telefone", "Email de emergencia" ou "Telefone de emergencia". |
 | 5) O sistema apresenta que a atualização foi realizada com sucesso. |
+
+| Fluxo Alternativo (2.5a): O sistema não encontrou o usuário logado. |
+|---|
+| 1) O sistema informa a tela de "Login" e de "Cadastro". |
+| 2) O usuáro preenche o campo "Email" e "Senha". |
+| 3) O Usuário clica em "Entrar". |
+| 4) Volta ao passo (2.5) do fluxo principal. |
 
 
 
