@@ -10,7 +10,7 @@ esperadas do sistema.
   * Com base no site SOS Mulheres queremos acrescentar as funcionalidades de:
     * Newsletter com noticias de mulheres, que visa informar as mulheres sobre os principais acontecimentos envolvendo violência doméstica, como devem proceder quando um caso destes ocorrer, a quem recorrer, etc.
     * Mapas de delegacias que disponibiliza aos usuários as delegacias mais próximas, sejam as delegacias que atendem a todos ou alguma especifica somente ao genero feminino
-    * "Botão de Panico" que dispara um email de emergência para o email cadastrado.
+    * "Botão de Panico" que dispara um email para o email de emergência cadastrado.
     * Informações sobre lei Maria da Penha, disponibilizar  a lei Maria da Penha para consulta.
 
 ## Problema
