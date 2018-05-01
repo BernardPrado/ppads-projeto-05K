@@ -79,12 +79,12 @@ Fonte: Mockup criado no software Balsamiq
 
 Fonte: Mockup criado no software Balsamiq
 
-### Protótipos para SOS
+### Protótipos para Sserv
 * Versão Desktop  
-![](SOS.png)
+![](sserv.png)
 
 * Versão Mobile  
-![](mobile-SOS.png)
+![](mobile-sserv.png)
 
 Fonte: Mockup criado no software Balsamiq
 
