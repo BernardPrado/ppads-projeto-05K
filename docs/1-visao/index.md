@@ -97,9 +97,11 @@ Fonte: Mockup criado no software Balsamiq
 
 Fonte: Mockup criado no software Balsamiq
 
-### Template de e-mail 
-*  
-![](template-email.png)
+### Protótipo SOS
+*  Botão SOS 
+![](sos.png)
 
+*  Template de e-email
+![](template-email.png)
 Fonte: Mockup criado no software Balsamiq
 
