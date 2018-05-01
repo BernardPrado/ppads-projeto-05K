@@ -97,4 +97,9 @@ Fonte: Mockup criado no software Balsamiq
 
 Fonte: Mockup criado no software Balsamiq
 
+### Template de e-mail 
+*  
+![](template-email.png)
+
+Fonte: Mockup criado no software Balsamiq
 
