@@ -2,10 +2,10 @@
 
 ## Organização em camadas
 
-![](componentes-camadas-proj.jpg)
+![](1.jpg)
 
 ## Implantação
 
-![](implantacao-proj.jpg)
+![](2.jpg)
 
 
