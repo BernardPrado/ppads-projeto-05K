@@ -1,0 +1,17 @@
+
+#form_container
+{
+	padding:15px 15px;
+	margin-top:15px;
+	background: rgba(255,255,255,0.75);	
+}
+
+#obs
+{
+	font-size:11px !important; 
+}
+body
+{
+	background-size: cover;
+}
+
